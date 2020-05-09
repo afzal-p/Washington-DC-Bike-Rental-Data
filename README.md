@@ -7,4 +7,5 @@ The two databases are included with the project: bikeshare.db is used first, the
 A pdf of the notebook is included
 
 The database files can be found at:
+
 https://drive.google.com/drive/folders/1EBNIGOirQI8vdkFShBkpI_TK7tx6JV2_?usp=sharing
